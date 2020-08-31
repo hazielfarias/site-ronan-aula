@@ -1,0 +1,72 @@
+body{
+    color: #342434;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11.5px;
+    text-align: justify;
+    background-color: white;
+}
+
+#first {
+    color: rgb(49, 49, 91);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#second {
+    color: rgb(23, 23, 23);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    text-align: left;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#third {
+    color: rgb(155, 155, 155);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9px;
+    text-align: left;
+}
+
+#fourth {
+    color: rgb(17, 17, 17);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: left;
+}
+.link{
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: bold;    
+}
+
+.underline {
+    text-decoration: underline;    
+}
+
+.MyLine {
+    border-top: 1px solid grey;
+}
+
+.div1 {
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    padding: 50px;
+    border: 15px solid white;
+    margin: 20px;
+}
+
+.div2 {
+    background-color: white;
+    width: 500px;
+    padding: 50px;
+    border: 15px solid white;
+    margin: 20px;
+}
